@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "v72OWx7eX62fynTMvDMTfkt7xxriMBMZGnovmwmzzPM=",
+  "Source": "PetHands.Api",
+  "BasePath": "_content/PetHands.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
