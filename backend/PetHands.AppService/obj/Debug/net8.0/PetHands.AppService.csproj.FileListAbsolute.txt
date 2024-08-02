@@ -1,0 +1,34 @@
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.AppService\obj\Debug\net8.0\PetHands.AppService.csproj.AssemblyReference.cache
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.AppService\obj\Debug\net8.0\PetHands.AppService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.AppService\obj\Debug\net8.0\PetHands.AppService.AssemblyInfoInputs.cache
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.AppService\obj\Debug\net8.0\PetHands.AppService.AssemblyInfo.cs
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.AppService\obj\Debug\net8.0\PetHands.AppService.csproj.CoreCompileInputs.cache
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.AppService\bin\Debug\net8.0\PetHands.AppService.deps.json
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.AppService\bin\Debug\net8.0\PetHands.AppService.dll
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.AppService\bin\Debug\net8.0\PetHands.AppService.pdb
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.AppService\bin\Debug\net8.0\PetHands.Domain.dll
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.AppService\bin\Debug\net8.0\PetHands.Infrastructure.dll
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.AppService\bin\Debug\net8.0\PetHands.Domain.pdb
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.AppService\bin\Debug\net8.0\PetHands.Infrastructure.pdb
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.AppService\obj\Debug\net8.0\PetHands.99767A86.Up2Date
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.AppService\obj\Debug\net8.0\PetHands.AppService.dll
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.AppService\obj\Debug\net8.0\refint\PetHands.AppService.dll
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.AppService\obj\Debug\net8.0\PetHands.AppService.pdb
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.AppService\obj\Debug\net8.0\ref\PetHands.AppService.dll
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.AppService\bin\Debug\net8.0\PetHands.AppService.deps.json
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.AppService\bin\Debug\net8.0\PetHands.AppService.dll
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.AppService\bin\Debug\net8.0\PetHands.AppService.pdb
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.AppService\bin\Debug\net8.0\PetHands.Domain.dll
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.AppService\bin\Debug\net8.0\PetHands.Infrastructure.dll
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.AppService\bin\Debug\net8.0\PetHands.Domain.pdb
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.AppService\bin\Debug\net8.0\PetHands.Infrastructure.pdb
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.AppService\obj\Debug\net8.0\PetHands.AppService.csproj.AssemblyReference.cache
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.AppService\obj\Debug\net8.0\PetHands.AppService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.AppService\obj\Debug\net8.0\PetHands.AppService.AssemblyInfoInputs.cache
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.AppService\obj\Debug\net8.0\PetHands.AppService.AssemblyInfo.cs
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.AppService\obj\Debug\net8.0\PetHands.AppService.csproj.CoreCompileInputs.cache
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.AppService\obj\Debug\net8.0\PetHands.99767A86.Up2Date
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.AppService\obj\Debug\net8.0\PetHands.AppService.dll
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.AppService\obj\Debug\net8.0\refint\PetHands.AppService.dll
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.AppService\obj\Debug\net8.0\PetHands.AppService.pdb
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.AppService\obj\Debug\net8.0\ref\PetHands.AppService.dll

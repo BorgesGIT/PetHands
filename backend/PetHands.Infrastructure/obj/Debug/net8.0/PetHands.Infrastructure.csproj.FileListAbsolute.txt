@@ -1,0 +1,34 @@
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.Infrastructure.AssemblyInfo.cs
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.Infrastructure\bin\Debug\net8.0\PetHands.Infrastructure.deps.json
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.Infrastructure\bin\Debug\net8.0\PetHands.Infrastructure.runtimeconfig.json
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.Infrastructure\bin\Debug\net8.0\PetHands.Infrastructure.dll
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.Infrastructure\bin\Debug\net8.0\PetHands.Infrastructure.pdb
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.Infrastructure\bin\Debug\net8.0\PetHands.Domain.dll
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.Infrastructure\bin\Debug\net8.0\PetHands.Domain.pdb
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.0A182C9E.Up2Date
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.Infrastructure.dll
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.Infrastructure\obj\Debug\net8.0\refint\PetHands.Infrastructure.dll
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.Infrastructure.pdb
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.Infrastructure.genruntimeconfig.cache
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.Infrastructure\obj\Debug\net8.0\ref\PetHands.Infrastructure.dll
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Infrastructure\bin\Debug\net8.0\PetHands.Infrastructure.deps.json
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Infrastructure\bin\Debug\net8.0\PetHands.Infrastructure.runtimeconfig.json
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Infrastructure\bin\Debug\net8.0\PetHands.Infrastructure.dll
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Infrastructure\bin\Debug\net8.0\PetHands.Infrastructure.pdb
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Infrastructure\bin\Debug\net8.0\PetHands.Domain.dll
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Infrastructure\bin\Debug\net8.0\PetHands.Domain.pdb
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.Infrastructure.AssemblyInfo.cs
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.0A182C9E.Up2Date
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.Infrastructure.dll
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Infrastructure\obj\Debug\net8.0\refint\PetHands.Infrastructure.dll
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.Infrastructure.pdb
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.Infrastructure.genruntimeconfig.cache
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Infrastructure\obj\Debug\net8.0\ref\PetHands.Infrastructure.dll
