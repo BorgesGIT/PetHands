@@ -1,0 +1,22 @@
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.Domain\bin\Debug\net8.0\PetHands.Domain.deps.json
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.Domain\bin\Debug\net8.0\PetHands.Domain.dll
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.Domain\bin\Debug\net8.0\PetHands.Domain.pdb
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.Domain\obj\Debug\net8.0\PetHands.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.Domain\obj\Debug\net8.0\PetHands.Domain.AssemblyInfoInputs.cache
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.Domain\obj\Debug\net8.0\PetHands.Domain.AssemblyInfo.cs
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.Domain\obj\Debug\net8.0\PetHands.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.Domain\obj\Debug\net8.0\PetHands.Domain.dll
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.Domain\obj\Debug\net8.0\refint\PetHands.Domain.dll
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.Domain\obj\Debug\net8.0\PetHands.Domain.pdb
+C:\Users\Borges\Downloads\PetHands\PetHands\PetHands.Domain\obj\Debug\net8.0\ref\PetHands.Domain.dll
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Domain\bin\Debug\net8.0\PetHands.Domain.deps.json
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Domain\bin\Debug\net8.0\PetHands.Domain.dll
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Domain\bin\Debug\net8.0\PetHands.Domain.pdb
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Domain\obj\Debug\net8.0\PetHands.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Domain\obj\Debug\net8.0\PetHands.Domain.AssemblyInfoInputs.cache
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Domain\obj\Debug\net8.0\PetHands.Domain.AssemblyInfo.cs
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Domain\obj\Debug\net8.0\PetHands.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Domain\obj\Debug\net8.0\PetHands.Domain.dll
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Domain\obj\Debug\net8.0\refint\PetHands.Domain.dll
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Domain\obj\Debug\net8.0\PetHands.Domain.pdb
+C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Domain\obj\Debug\net8.0\ref\PetHands.Domain.dll

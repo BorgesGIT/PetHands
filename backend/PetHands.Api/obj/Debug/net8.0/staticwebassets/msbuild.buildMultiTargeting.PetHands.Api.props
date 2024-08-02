@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PetHands.Api.props" />
+</Project>
