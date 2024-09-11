@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PetHands.Infrastructure
-build_property.ProjectDir = C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Infrastructure\
+build_property.ProjectDir = C:\GitPessoal\PetHands\backend\PetHands.Infrastructure\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

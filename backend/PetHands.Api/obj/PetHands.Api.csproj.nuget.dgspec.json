@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Api\\PetHands.Api.csproj": {}
+    "C:\\GitPessoal\\PetHands\\backend\\PetHands.Api\\PetHands.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Api\\PetHands.Api.csproj": {
+    "C:\\GitPessoal\\PetHands\\backend\\PetHands.Api\\PetHands.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Api\\PetHands.Api.csproj",
+        "projectUniqueName": "C:\\GitPessoal\\PetHands\\backend\\PetHands.Api\\PetHands.Api.csproj",
         "projectName": "PetHands.Api",
-        "projectPath": "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Api\\PetHands.Api.csproj",
+        "projectPath": "C:\\GitPessoal\\PetHands\\backend\\PetHands.Api\\PetHands.Api.csproj",
         "packagesPath": "C:\\Users\\Borges\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Api\\obj\\",
+        "outputPath": "C:\\GitPessoal\\PetHands\\backend\\PetHands.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,14 +33,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.AppService\\PetHands.AppService.csproj": {
-                "projectPath": "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.AppService\\PetHands.AppService.csproj"
+              "C:\\GitPessoal\\PetHands\\backend\\PetHands.AppService\\PetHands.AppService.csproj": {
+                "projectPath": "C:\\GitPessoal\\PetHands\\backend\\PetHands.AppService\\PetHands.AppService.csproj"
               },
-              "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Common\\PetHands.Common.csproj": {
-                "projectPath": "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Common\\PetHands.Common.csproj"
+              "C:\\GitPessoal\\PetHands\\backend\\PetHands.Common\\PetHands.Common.csproj": {
+                "projectPath": "C:\\GitPessoal\\PetHands\\backend\\PetHands.Common\\PetHands.Common.csproj"
               },
-              "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Infrastructure\\PetHands.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Infrastructure\\PetHands.Infrastructure.csproj"
+              "C:\\GitPessoal\\PetHands\\backend\\PetHands.Infrastructure\\PetHands.Infrastructure.csproj": {
+                "projectPath": "C:\\GitPessoal\\PetHands\\backend\\PetHands.Infrastructure\\PetHands.Infrastructure.csproj"
               }
             }
           }
@@ -63,6 +63,10 @@
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[8.0.7, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.21.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -88,18 +92,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.AppService\\PetHands.AppService.csproj": {
+    "C:\\GitPessoal\\PetHands\\backend\\PetHands.AppService\\PetHands.AppService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.AppService\\PetHands.AppService.csproj",
+        "projectUniqueName": "C:\\GitPessoal\\PetHands\\backend\\PetHands.AppService\\PetHands.AppService.csproj",
         "projectName": "PetHands.AppService",
-        "projectPath": "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.AppService\\PetHands.AppService.csproj",
+        "projectPath": "C:\\GitPessoal\\PetHands\\backend\\PetHands.AppService\\PetHands.AppService.csproj",
         "packagesPath": "C:\\Users\\Borges\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.AppService\\obj\\",
+        "outputPath": "C:\\GitPessoal\\PetHands\\backend\\PetHands.AppService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -121,11 +125,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Domain\\PetHands.Domain.csproj": {
-                "projectPath": "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Domain\\PetHands.Domain.csproj"
+              "C:\\GitPessoal\\PetHands\\backend\\PetHands.Domain\\PetHands.Domain.csproj": {
+                "projectPath": "C:\\GitPessoal\\PetHands\\backend\\PetHands.Domain\\PetHands.Domain.csproj"
               },
-              "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Infrastructure\\PetHands.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Infrastructure\\PetHands.Infrastructure.csproj"
+              "C:\\GitPessoal\\PetHands\\backend\\PetHands.Infrastructure\\PetHands.Infrastructure.csproj": {
+                "projectPath": "C:\\GitPessoal\\PetHands\\backend\\PetHands.Infrastructure\\PetHands.Infrastructure.csproj"
               }
             }
           }
@@ -160,18 +164,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Common\\PetHands.Common.csproj": {
+    "C:\\GitPessoal\\PetHands\\backend\\PetHands.Common\\PetHands.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Common\\PetHands.Common.csproj",
+        "projectUniqueName": "C:\\GitPessoal\\PetHands\\backend\\PetHands.Common\\PetHands.Common.csproj",
         "projectName": "PetHands.Common",
-        "projectPath": "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Common\\PetHands.Common.csproj",
+        "projectPath": "C:\\GitPessoal\\PetHands\\backend\\PetHands.Common\\PetHands.Common.csproj",
         "packagesPath": "C:\\Users\\Borges\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Common\\obj\\",
+        "outputPath": "C:\\GitPessoal\\PetHands\\backend\\PetHands.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -225,18 +229,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Domain\\PetHands.Domain.csproj": {
+    "C:\\GitPessoal\\PetHands\\backend\\PetHands.Domain\\PetHands.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Domain\\PetHands.Domain.csproj",
+        "projectUniqueName": "C:\\GitPessoal\\PetHands\\backend\\PetHands.Domain\\PetHands.Domain.csproj",
         "projectName": "PetHands.Domain",
-        "projectPath": "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Domain\\PetHands.Domain.csproj",
+        "projectPath": "C:\\GitPessoal\\PetHands\\backend\\PetHands.Domain\\PetHands.Domain.csproj",
         "packagesPath": "C:\\Users\\Borges\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Domain\\obj\\",
+        "outputPath": "C:\\GitPessoal\\PetHands\\backend\\PetHands.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -290,18 +294,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Infrastructure\\PetHands.Infrastructure.csproj": {
+    "C:\\GitPessoal\\PetHands\\backend\\PetHands.Infrastructure\\PetHands.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Infrastructure\\PetHands.Infrastructure.csproj",
+        "projectUniqueName": "C:\\GitPessoal\\PetHands\\backend\\PetHands.Infrastructure\\PetHands.Infrastructure.csproj",
         "projectName": "PetHands.Infrastructure",
-        "projectPath": "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Infrastructure\\PetHands.Infrastructure.csproj",
+        "projectPath": "C:\\GitPessoal\\PetHands\\backend\\PetHands.Infrastructure\\PetHands.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Borges\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Infrastructure\\obj\\",
+        "outputPath": "C:\\GitPessoal\\PetHands\\backend\\PetHands.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -323,8 +327,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Domain\\PetHands.Domain.csproj": {
-                "projectPath": "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Domain\\PetHands.Domain.csproj"
+              "C:\\GitPessoal\\PetHands\\backend\\PetHands.Domain\\PetHands.Domain.csproj": {
+                "projectPath": "C:\\GitPessoal\\PetHands\\backend\\PetHands.Domain\\PetHands.Domain.csproj"
               }
             }
           }
@@ -373,7 +377,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

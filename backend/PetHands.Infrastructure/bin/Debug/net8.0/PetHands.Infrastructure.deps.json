@@ -910,7 +910,10 @@
       },
       "PetHands.Domain/1.0.0": {
         "runtime": {
-          "PetHands.Domain.dll": {}
+          "PetHands.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

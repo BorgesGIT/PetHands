@@ -32,3 +32,20 @@ C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Infrastructure\ob
 C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.Infrastructure.pdb
 C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.Infrastructure.genruntimeconfig.cache
 C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Infrastructure\obj\Debug\net8.0\ref\PetHands.Infrastructure.dll
+C:\GitPessoal\PetHands\backend\PetHands.Infrastructure\bin\Debug\net8.0\PetHands.Infrastructure.deps.json
+C:\GitPessoal\PetHands\backend\PetHands.Infrastructure\bin\Debug\net8.0\PetHands.Infrastructure.runtimeconfig.json
+C:\GitPessoal\PetHands\backend\PetHands.Infrastructure\bin\Debug\net8.0\PetHands.Infrastructure.dll
+C:\GitPessoal\PetHands\backend\PetHands.Infrastructure\bin\Debug\net8.0\PetHands.Infrastructure.pdb
+C:\GitPessoal\PetHands\backend\PetHands.Infrastructure\bin\Debug\net8.0\PetHands.Domain.dll
+C:\GitPessoal\PetHands\backend\PetHands.Infrastructure\bin\Debug\net8.0\PetHands.Domain.pdb
+C:\GitPessoal\PetHands\backend\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.Infrastructure.csproj.AssemblyReference.cache
+C:\GitPessoal\PetHands\backend\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitPessoal\PetHands\backend\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.Infrastructure.AssemblyInfoInputs.cache
+C:\GitPessoal\PetHands\backend\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.Infrastructure.AssemblyInfo.cs
+C:\GitPessoal\PetHands\backend\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.Infrastructure.csproj.CoreCompileInputs.cache
+C:\GitPessoal\PetHands\backend\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.0A182C9E.Up2Date
+C:\GitPessoal\PetHands\backend\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.Infrastructure.dll
+C:\GitPessoal\PetHands\backend\PetHands.Infrastructure\obj\Debug\net8.0\refint\PetHands.Infrastructure.dll
+C:\GitPessoal\PetHands\backend\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.Infrastructure.pdb
+C:\GitPessoal\PetHands\backend\PetHands.Infrastructure\obj\Debug\net8.0\PetHands.Infrastructure.genruntimeconfig.cache
+C:\GitPessoal\PetHands\backend\PetHands.Infrastructure\obj\Debug\net8.0\ref\PetHands.Infrastructure.dll

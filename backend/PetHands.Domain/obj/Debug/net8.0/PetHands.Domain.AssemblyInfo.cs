@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PetHands.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c99d2db3142a9f2ade3e195e27d37b4fd8cb430a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PetHands.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PetHands.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

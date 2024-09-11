@@ -20,3 +20,14 @@ C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Common\obj\Debug\
 C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Common\obj\Debug\net8.0\refint\PetHands.Common.dll
 C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Common\obj\Debug\net8.0\PetHands.Common.pdb
 C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.Common\obj\Debug\net8.0\ref\PetHands.Common.dll
+C:\GitPessoal\PetHands\backend\PetHands.Common\bin\Debug\net8.0\PetHands.Common.deps.json
+C:\GitPessoal\PetHands\backend\PetHands.Common\bin\Debug\net8.0\PetHands.Common.dll
+C:\GitPessoal\PetHands\backend\PetHands.Common\bin\Debug\net8.0\PetHands.Common.pdb
+C:\GitPessoal\PetHands\backend\PetHands.Common\obj\Debug\net8.0\PetHands.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitPessoal\PetHands\backend\PetHands.Common\obj\Debug\net8.0\PetHands.Common.AssemblyInfoInputs.cache
+C:\GitPessoal\PetHands\backend\PetHands.Common\obj\Debug\net8.0\PetHands.Common.AssemblyInfo.cs
+C:\GitPessoal\PetHands\backend\PetHands.Common\obj\Debug\net8.0\PetHands.Common.csproj.CoreCompileInputs.cache
+C:\GitPessoal\PetHands\backend\PetHands.Common\obj\Debug\net8.0\PetHands.Common.dll
+C:\GitPessoal\PetHands\backend\PetHands.Common\obj\Debug\net8.0\refint\PetHands.Common.dll
+C:\GitPessoal\PetHands\backend\PetHands.Common\obj\Debug\net8.0\PetHands.Common.pdb
+C:\GitPessoal\PetHands\backend\PetHands.Common\obj\Debug\net8.0\ref\PetHands.Common.dll
