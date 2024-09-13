@@ -3,7 +3,7 @@ import { Card, CardContent } from "@/components/ui/card";
 import { Label } from "@/components/ui/label";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
-import { Chrome } from "lucide-react";
+import ButtonLogin from "@/components/shared/button-login";
 
 export default function AuthLoginPage() {
   return (
@@ -14,9 +14,9 @@ export default function AuthLoginPage() {
             Sign in to your account
           </h1>
           <p className="mt-2 text-muted-foreground">
-            Don't have an account?{" "}
+            Dont have an account?{" "}
             <Link
-              href="#"
+              href="/auth/register"
               className="font-medium text-primary hover:underline"
               prefetch={false}
             >
@@ -54,10 +54,7 @@ export default function AuthLoginPage() {
                 </span>
               </div>
             </div>
-            <Button variant="outline" className="w-full">
-              <Chrome className="mr-2 h-4 w-4" />
-              Google
-            </Button>
+            <ButtonLogin />
           </CardContent>
         </Card>
       </div>
