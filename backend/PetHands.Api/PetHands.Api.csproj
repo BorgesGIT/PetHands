@@ -2,9 +2,12 @@
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <LangVersion>latest</LangVersion>
+    <UserSecretsId>915770bd-1674-41a1-999d-03a77dfc4d34</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="8.0.7" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.21.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
   <ItemGroup>

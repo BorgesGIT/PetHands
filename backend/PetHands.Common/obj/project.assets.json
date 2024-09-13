@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Common\\PetHands.Common.csproj",
+      "projectUniqueName": "C:\\GitPessoal\\PetHands\\backend\\PetHands.Common\\PetHands.Common.csproj",
       "projectName": "PetHands.Common",
-      "projectPath": "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Common\\PetHands.Common.csproj",
+      "projectPath": "C:\\GitPessoal\\PetHands\\backend\\PetHands.Common\\PetHands.Common.csproj",
       "packagesPath": "C:\\Users\\Borges\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.Common\\obj\\",
+      "outputPath": "C:\\GitPessoal\\PetHands\\backend\\PetHands.Common\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

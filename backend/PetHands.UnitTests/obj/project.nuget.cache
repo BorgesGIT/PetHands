@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mksTYF3fy2U=",
+  "dgSpecHash": "CStFSaHwHeI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Borges\\Documents\\Visual Studio 2022\\PetHands\\PetHands.UnitTests\\PetHands.UnitTests.csproj",
+  "projectFilePath": "C:\\GitPessoal\\PetHands\\backend\\PetHands.UnitTests\\PetHands.UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Borges\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Borges\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

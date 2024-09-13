@@ -32,3 +32,20 @@ C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.AppService\obj\De
 C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.AppService\obj\Debug\net8.0\refint\PetHands.AppService.dll
 C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.AppService\obj\Debug\net8.0\PetHands.AppService.pdb
 C:\Users\Borges\Documents\Visual Studio 2022\PetHands\PetHands.AppService\obj\Debug\net8.0\ref\PetHands.AppService.dll
+C:\GitPessoal\PetHands\backend\PetHands.AppService\bin\Debug\net8.0\PetHands.AppService.deps.json
+C:\GitPessoal\PetHands\backend\PetHands.AppService\bin\Debug\net8.0\PetHands.AppService.dll
+C:\GitPessoal\PetHands\backend\PetHands.AppService\bin\Debug\net8.0\PetHands.AppService.pdb
+C:\GitPessoal\PetHands\backend\PetHands.AppService\bin\Debug\net8.0\PetHands.Domain.dll
+C:\GitPessoal\PetHands\backend\PetHands.AppService\bin\Debug\net8.0\PetHands.Infrastructure.dll
+C:\GitPessoal\PetHands\backend\PetHands.AppService\bin\Debug\net8.0\PetHands.Domain.pdb
+C:\GitPessoal\PetHands\backend\PetHands.AppService\bin\Debug\net8.0\PetHands.Infrastructure.pdb
+C:\GitPessoal\PetHands\backend\PetHands.AppService\obj\Debug\net8.0\PetHands.AppService.csproj.AssemblyReference.cache
+C:\GitPessoal\PetHands\backend\PetHands.AppService\obj\Debug\net8.0\PetHands.AppService.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitPessoal\PetHands\backend\PetHands.AppService\obj\Debug\net8.0\PetHands.AppService.AssemblyInfoInputs.cache
+C:\GitPessoal\PetHands\backend\PetHands.AppService\obj\Debug\net8.0\PetHands.AppService.AssemblyInfo.cs
+C:\GitPessoal\PetHands\backend\PetHands.AppService\obj\Debug\net8.0\PetHands.AppService.csproj.CoreCompileInputs.cache
+C:\GitPessoal\PetHands\backend\PetHands.AppService\obj\Debug\net8.0\PetHands.99767A86.Up2Date
+C:\GitPessoal\PetHands\backend\PetHands.AppService\obj\Debug\net8.0\PetHands.AppService.dll
+C:\GitPessoal\PetHands\backend\PetHands.AppService\obj\Debug\net8.0\refint\PetHands.AppService.dll
+C:\GitPessoal\PetHands\backend\PetHands.AppService\obj\Debug\net8.0\PetHands.AppService.pdb
+C:\GitPessoal\PetHands\backend\PetHands.AppService\obj\Debug\net8.0\ref\PetHands.AppService.dll

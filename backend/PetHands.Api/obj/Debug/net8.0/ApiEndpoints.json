@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "PetHands.Api.Controllers.ConfiguracaoController",
+    "Method": "Get",
+    "RelativePath": "api/Configuracao",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PetHands.Api.Controllers.ConfiguracaoController",
+    "Method": "GetMenu",
+    "RelativePath": "api/Configuracao/menu",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dominio",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
